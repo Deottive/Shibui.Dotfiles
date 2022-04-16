@@ -10,6 +10,7 @@ I have been loving different color schemes and people who put so much effor into
 2. **DE** - GNOME 
 3. **Shell** - ZSH (with OhmyZsh)
 4. **Terminal** - Alacritty 
+5. **Font** - JetBrains Mono Nerd Font
 
 ## DEVICES 🎧
 1. (Android) Realme XT 📱
@@ -22,7 +23,10 @@ I have been loving different color schemes and people who put so much effor into
 
 ### Gruvbox 🟡
 ---
+![Screenshot from 2022-04-16 07-26-22](https://user-images.githubusercontent.com/71910027/163662871-0c279d73-f4ef-4b1f-990e-496c7eb367ff.png)
+
 ### Nord 🔵
 ---
+
 ### Dracula 🟣
 ---
