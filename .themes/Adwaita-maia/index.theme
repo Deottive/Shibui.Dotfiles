@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Adwaita-maia
+Type=X-GNOME-Metatheme
+Comment=Adwaita Modified
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Adwaita-maia
+MetacityTheme=Adwaita-maia
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

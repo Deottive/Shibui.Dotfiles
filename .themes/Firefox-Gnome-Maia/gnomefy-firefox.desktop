@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Firefox gnome theme
+Comment=Enable adwaita-maia theme for firefox
+Exec=firegnome-enable.sh
+Terminal=false
+StartupNotify=false
+OnlyShowIn=gnome
+X-GNOME-Autostart-Delay=10

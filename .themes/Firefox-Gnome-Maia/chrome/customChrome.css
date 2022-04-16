@@ -1,0 +1,33 @@
+@import "theme/matching-autocomplete-width.css";
+@import "theme/rounded-title-buttons.css";
+@import "theme/symbolic-tab-icons.css";
+/*@import "theme/colors/light-maia.css";
+@import "theme/colors/dark-maia.css";*/
+*::selection {
+    background: #2eb398 !important;
+    color: #ffffff !important;
+}
+
+#star-button[starred] {
+	fill: #16A085 !important;
+  }
+
+.tab-throbber[busy]::before {
+  background-image: url("chrome://global/skin/icons/loading.png") !important;
+  animation: unset !important;
+  filter: invert(0.9) sepia(1) saturate(5) hue-rotate(110deg)
+}
+.tab-throbber[busy]:not([progress])::before {
+  /* Grays the blue during "Connecting" state */
+  filter: grayscale(100%);
+}
+@media (min-resolution: 2dppx) {
+  .tab-throbber[busy]::before {
+    background-image: url("chrome://global/skin/icons/loading@2x.png") !important;
+  }
+}
+
+#tabbrowser-tabs {
+    --tab-loading-fill: #16A085! important;
+}
+

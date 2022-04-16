@@ -56,27 +56,30 @@ colors:
 # Font Management
 font:
   normal:
-    family: JetBrainsMono Nerd Font 
+    family: SFMono Nerd Font 
     style: Regular
     size: 11
 
   bold:
-    family: JetBrainsMono Nerd Font 
+    family: SFMono Nerd Font 
     style: Bold
     size: 11
 
   italic:
-    family: JetBrainsMono Nerd Font 
+    family: SFMono Nerd Font 
     style: Italic
     size: 11
 
   bold_italic:
-    family: JetBrainsMono Nerd Font
+    family: SFMono Nerd Font
     style: Bold Italic
     size: 11
-
+    
+# Padding 
 window:
   padding:
    x: 10
    y: 10
+  opacity: 0.95
+
 
