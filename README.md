@@ -23,10 +23,8 @@ I have been loving different color schemes and people who put so much effor into
 
 ### Gruvbox 🟡
 ---
-![Screenshot from 2022-04-16 07-26-22](https://user-images.githubusercontent.com/71910027/163662871-0c279d73-f4ef-4b1f-990e-496c7eb367ff.png)
-
-### Nord 🔵
----
+![Screenshot from 2022-04-16 11-10-53](https://user-images.githubusercontent.com/71910027/163663232-bdba7f61-8ae6-44c3-aa27-1890445b91bd.png)
 
 ### Dracula 🟣
 ---
+![4](https://user-images.githubusercontent.com/71910027/163663188-0b49cdab-0026-42cc-8ce6-1eaebbeac80a.png)
