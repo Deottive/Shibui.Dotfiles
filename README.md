@@ -28,3 +28,8 @@ I have been loving different color schemes and people who put so much effor into
 ### Dracula 🟣
 ---
 ![4](https://user-images.githubusercontent.com/71910027/163663188-0b49cdab-0026-42cc-8ce6-1eaebbeac80a.png)
+
+### Dracula 🔵
+---
+![2](https://user-images.githubusercontent.com/71910027/166694635-0725f366-e33c-40d6-b5dd-cf9601cc8737.png)
+
