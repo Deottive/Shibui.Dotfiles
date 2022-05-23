@@ -1,0 +1,97 @@
+#
+#                                       
+#   (     (                  )   )      
+#   )\    )\   )    (  (  ( /(( /((     
+#((((_)( ((_| /(  ( )( )\ )\())\())\ )  
+# )\ _ )\ _ )(_)) )(()((_|_))(_))(()/(  
+# (_)_\(_) ((_)_ ((_|(_|_) |_| |_ )(_)) 
+#  / _ \ | / _` / _| '_| |  _|  _| || | 
+# /_/ \_\|_\__,_\__|_| |_|\__|\__|\_, | 
+#                                 |__/  
+#
+#
+# Adwaita Maia 
+
+colors:
+  primary:
+    background: '#2d2d2d'
+    foreground: '#f8f8f2'
+    bright_foreground: '#ffffff'
+  cursor:
+    text: CellBackground
+    cursor: CellForeground
+  vi_mode_cursor:
+    text: CellBackground
+    cursor: CellForeground
+  search:
+    matches:
+      foreground: '#44475a'
+      background: '#50fa7b'
+    focused_match:
+      foreground: '#44475a'
+      background: '#ffb86c'
+    bar:
+      background: '#282a36'
+      foreground: '#f8f8f2'
+  hints:
+    start:
+      foreground: '#282a36'
+      background: '#f1fa8c'
+    end:
+      foreground: '#f1fa8c'
+      background: '#282a36'
+  line_indicator:
+    foreground: None
+    background: None
+  selection:
+    text: CellForeground
+    background: '#44475a'
+  normal:
+    black: '#2e3436'
+    red: '#cc0000'
+    green: '#138B74'
+    yellow: '#e0b14d'
+    blue: '#3465a4'
+    magenta: '#75507b'
+    cyan: '#06989a'
+    white: '#d3d7cf'
+  bright:
+    black: '#555753'
+    red: '#ef2929'
+    green: '#138B74'
+    yellow: '#ffffa5'
+    blue: '#729fcf'
+    magenta: '#ad7fa8'
+    cyan: '#06989a'
+    white: '#eeeeec'
+
+# Font Management
+font:
+  normal:
+    family: JetBrainsMono Nerd Font 
+    style: Regular
+    size: 12
+
+  bold:
+    family: JetBrainsMono Nerd Font
+    style: Bold
+    size: 12
+
+  italic:
+    family: JetBrainsMono Nerd Font
+    style: Italic
+    size: 12
+
+  bold_italic:
+    family: JetBrainsMono Nerd Font
+    style: Bold Italic
+    size: 12
+    
+# Padding and Opacity
+window:
+  padding:
+   x: 10
+   y: 10
+  opacity: 1.00
+
+
