@@ -1,1 +1,1 @@
-Removed Everything and Will be changing things
+<h1 align="center">Crazy Diamond</h1>
