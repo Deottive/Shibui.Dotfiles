@@ -1,6 +1,9 @@
 <p align="center">
 <img src="Dotfiles.png" height="300px" width="300px"
      alt="Markdown Monster icon"/>
-</p>
-<p align="center">Contains my favourite rice that I have created/edited after I started using Linux
-  </p>
+     
+# Things used in these Rices 
+### Apps 
+### Gnome-Extensios 
+### Terminal Apps 
+### Other BS 
