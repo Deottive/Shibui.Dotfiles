@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img src="images/logo1.svg" height="300px" width="300px"
+<img src="images/Shibui-Dotfiles.png" height="300px" width="300px"
      alt="Markdown Monster icon"/>
      <br>
 </p>
